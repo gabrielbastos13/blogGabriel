@@ -1,12 +1,14 @@
 ---
-title: Vamos falar sobre a Nenys
+title: 'TESTE 2 '
 date: '2019-12-17T21:36:25-03:00'
 categories:
-  - love
+  - ''
+tags:
+  - lovestory
 keywords:
   - ''
 autoThumbnailImage: false
 thumbnailImagePosition: top
-coverImage: /images/uploads/cover-post.jpg
+coverImage: ''
 ---
-Eu amo a nenys
+TESTANDO UM DOIS 3
