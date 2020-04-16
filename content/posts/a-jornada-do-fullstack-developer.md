@@ -1,10 +1,10 @@
 ---
 title: A jornada do FullStack Developer
 date: '2020-04-09T15:06:00-03:00'
-autoThumbnailImage: true
+autoThumbnailImage: false
 thumbnailImagePosition: top
 thumbnailImage: ''
-coverImage: /images/uploads/trip.jpeg
+coverImage: /images/uploads/cover.jpeg
 ---
 JORNADA Full Stack Developer: 
 
