@@ -3,8 +3,9 @@ title: Como ser um bom programador ?
 date: '2020-04-16T13:28:00-03:00'
 keywords:
   - ''
-autoThumbnailImage: false
+autoThumbnailImage: true
 thumbnailImagePosition: top
+thumbnailImage: /images/uploads/cover.jpeg
 coverImage: /images/uploads/cover.jpeg
 ---
 Procurando referências na internet sobre como aumentar o meu conhecimento e aplicá-lo, me deparei com algumas dicas que achei bem relevantes e decidi registrá-las aqui.
